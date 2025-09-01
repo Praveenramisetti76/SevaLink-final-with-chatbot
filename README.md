@@ -161,12 +161,4 @@ npm start
 - **Backend**: Railway, Render
 - **Database**: MongoDB Atlas (Free tier)
 
-## 🤝 Contributing
-This is a hackathon project built in 24 hours. Contributions welcome!
 
-## 📄 License
-MIT License - see LICENSE file for details
-
----
-
-**Built with ❤️ for the community during 24-hour hackathon**
