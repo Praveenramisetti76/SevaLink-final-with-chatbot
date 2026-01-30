@@ -1,31 +1,29 @@
-# 🌟 SevaLink - All-in-One Community Citizen Service Portal
+#  SevaLink - All-in-One Community Citizen Service Portal
 
-> **Hackathon Project**: A comprehensive community service platform built in 24 hours
+##  Features :
 
-## 🚀 Features
-
-### 🔧 Service Request & Complaint Management
+### Service Request & Complaint Management
 - Report civic issues (street lights, garbage, water problems)
 - Real-time status tracking (Pending → In Progress → Resolved)
 - Location-based categorization
 
-### 🩸 Blood Donation Network
+###  Blood Donation Network
 - Emergency blood requests with urgency levels
 - Volunteer notification system
 - Real-time matching and updates
 
-### 👴 Elderly People Support
+###  Elderly People Support
 - Transport, food, and medical assistance requests
 - Community volunteer network
 - Priority-based assignment
 
-### 🤖 Intelligent Chatbot
+###  Intelligent Chatbot
 - **Multi-language support**: Hindi, English, Telugu
 - **Voice + Text input** with Web Speech API
 - **AI-powered intent detection** using Gemini Pro
 - **Automatic request logging** to database
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **Frontend**: React 18 + Tailwind CSS + Framer Motion
 - **Backend**: Node.js + Express.js
@@ -35,7 +33,7 @@
 - **Real-time**: Socket.io
 - **Voice**: Web Speech API + Whisper
 
-## 🏗️ Project Structure
+##  Project Structure
 
 ```
 sevalink/
@@ -55,7 +53,7 @@ sevalink/
 └── docs/                # Documentation
 ```
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### Prerequisites
 - Node.js 18+
@@ -86,24 +84,19 @@ npm run dev
 - Frontend: http://localhost:3000
 - Backend: http://localhost:5000
 
-## 🎯 User Roles
+##  User Roles
 
-### 👤 Citizen/User
+###  Citizen/User
 - Raise service requests via chatbot or forms
 - Track complaint status
 - Receive updates and notifications
 
-### 🤝 Volunteer
+###  Volunteer
 - Accept blood donation requests
 - Provide elderly support services
 - Manage availability status
 
-### 👨‍💼 Admin
-- Monitor all requests and complaints
-- Manage user accounts and volunteers
-- Generate reports and analytics
-
-## 🌐 API Endpoints
+##  API Endpoints
 
 ### Authentication
 - `POST /api/auth/register` - User registration
@@ -120,7 +113,7 @@ npm run dev
 - `POST /api/chatbot/message` - Process chatbot message
 - `POST /api/chatbot/voice` - Process voice input
 
-## 🔧 Configuration
+## Configuration
 
 ### MongoDB Setup
 1. Create MongoDB Atlas cluster
@@ -131,19 +124,19 @@ npm run dev
 1. Get API key from Google AI Studio
 2. Add to `.env` file
 
-## 📱 Mobile Responsive
+## Mobile Responsive
 Fully responsive design optimized for:
 - Desktop (1920px+)
 - Tablet (768px - 1024px)
 - Mobile (320px - 767px)
 
-## 🎨 Design System
+##  Design System
 - **Primary Colors**: Blue gradient theme
 - **Typography**: Inter + Poppins fonts
 - **Components**: Consistent design language
 - **Animations**: Smooth transitions with Framer Motion
 
-## 🚀 Deployment
+## Deployment
 
 ### Local Development
 ```bash
@@ -155,10 +148,7 @@ npm run dev
 npm run build
 npm start
 ```
+## Built at CodeSpark'2025 KBN Collage Of Engineering
 
-### Free Hosting Options
-- **Frontend**: Vercel, Netlify
-- **Backend**: Railway, Render
-- **Database**: MongoDB Atlas (Free tier)
 
 
